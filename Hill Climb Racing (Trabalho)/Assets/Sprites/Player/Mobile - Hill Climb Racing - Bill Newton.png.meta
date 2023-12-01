@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 3ec3f63b1b6e2134d8b263bb1b1e5e4d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 721
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4a8aea039602f4a9c2fcc99755cdd7
+      internalID: 1060320871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 721
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed89fab71c8094b44949ef2f31d030ef
+      internalID: -679037168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 721
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81236a80e2ea20d48a1c2af42f386b3a
+      internalID: 547959756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_10
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 721
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cf83ad05789ab49ae8a90ce3fdf4e0
+      internalID: 1139666077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 721
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef42e38b157d914d99334c60f9aef42
+      internalID: 1227070313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_12
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 721
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a06921045f772f4da3d33842bd8944b
+      internalID: 917361604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_13
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 721
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9058c44a1b0c6964f83c8a4d9ca28a17
+      internalID: -579331082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 536
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b4d810d23baaf4ba60da1d9c3b34f6
+      internalID: -1553246418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_17
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 642
+        width: 107
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd56671a8cf1434bbcf6cfc9fc7d6b9
+      internalID: -1982874480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_19
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 551
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744809044c1293241bf94b3ae5f260ad
+      internalID: -812972636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_23
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 393
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebe3784c1604aa4096085813dd3b1a9
+      internalID: 1301620853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_24
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 391
+        width: 51
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c5288c05558440a7826b1a98ebf71
+      internalID: 127301200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_25
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 390
+        width: 41
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2db8db1e498664a98c00ac177fa58d
+      internalID: -376954825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 275
+        width: 60
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddb7e62e8a209e4eaf6b6f1fa2e4ec3
+      internalID: -769657430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_29
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 295
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b6f84bf8f78a3449d7dd63bc9e64bc
+      internalID: -109767749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_32
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 145
+        width: 63
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a00778cd52bcb048bd1d961ec5a8622
+      internalID: 987463335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_33
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 210
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eb4b0f11d81544b924ff7f23355158
+      internalID: -330954788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Hill Climb Racing - Bill Newton_35
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 46
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e9706e380ca9040af12eda8eb09fd8
+      internalID: -1894868902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Hill Climb Racing - Bill Newton_10: 1139666077
+      Mobile - Hill Climb Racing - Bill Newton_18: -1887067055
+      Mobile - Hill Climb Racing - Bill Newton_35: -1894868902
+      Mobile - Hill Climb Racing - Bill Newton_15: -1349001985
+      Mobile - Hill Climb Racing - Bill Newton_30: 290337027
+      Mobile - Hill Climb Racing - Bill Newton_11: 1227070313
+      Mobile - Hill Climb Racing - Bill Newton_7: 1060320871
+      Mobile - Hill Climb Racing - Bill Newton_22: 1849427978
+      Mobile - Hill Climb Racing - Bill Newton_6: -1118394179
+      Mobile - Hill Climb Racing - Bill Newton_27: 314740526
+      Mobile - Hill Climb Racing - Bill Newton_1: 1033146139
+      Mobile - Hill Climb Racing - Bill Newton_8: -679037168
+      Mobile - Hill Climb Racing - Bill Newton_2: 2126718530
+      Mobile - Hill Climb Racing - Bill Newton_34: -676187585
+      Mobile - Hill Climb Racing - Bill Newton_21: -479847817
+      Mobile - Hill Climb Racing - Bill Newton_4: 116192849
+      Mobile - Hill Climb Racing - Bill Newton_3: -108736335
+      Mobile - Hill Climb Racing - Bill Newton_0: 1657855549
+      Mobile - Hill Climb Racing - Bill Newton_5: 228523822
+      Mobile - Hill Climb Racing - Bill Newton_9: 547959756
+      Mobile - Hill Climb Racing - Bill Newton_23: 1301620853
+      Mobile - Hill Climb Racing - Bill Newton_33: -330954788
+      Mobile - Hill Climb Racing - Bill Newton_28: -769657430
+      Mobile - Hill Climb Racing - Bill Newton_14: 417023998
+      Mobile - Hill Climb Racing - Bill Newton_12: 917361604
+      Mobile - Hill Climb Racing - Bill Newton_20: 535150330
+      Mobile - Hill Climb Racing - Bill Newton_24: 127301200
+      Mobile - Hill Climb Racing - Bill Newton_26: 156662276
+      Mobile - Hill Climb Racing - Bill Newton_19: -812972636
+      Mobile - Hill Climb Racing - Bill Newton_31: 1821740774
+      Mobile - Hill Climb Racing - Bill Newton_16: -1553246418
+      Mobile - Hill Climb Racing - Bill Newton_17: -1982874480
+      Mobile - Hill Climb Racing - Bill Newton_25: -376954825
+      Mobile - Hill Climb Racing - Bill Newton_32: 987463335
+      Mobile - Hill Climb Racing - Bill Newton_13: -579331082
+      Mobile - Hill Climb Racing - Bill Newton_29: -109767749
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
