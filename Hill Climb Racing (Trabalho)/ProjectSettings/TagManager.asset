@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Carro
+  - Ground
   layers:
   - Default
   - TransparentFX

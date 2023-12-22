@@ -32,6 +32,11 @@ public class ControladorGasolina : MonoBehaviour
     {
         combustivelAtual -= Time.deltaTime * gasolinaGastaVelocidade;
         UpdateUI();
+
+        if (combustivelAtual <= 0)
+        {
+            GameManager.instance.GameOver();
+        }
     }
 
     private void UpdateUI()
