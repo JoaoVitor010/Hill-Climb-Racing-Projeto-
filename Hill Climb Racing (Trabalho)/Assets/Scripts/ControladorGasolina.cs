@@ -44,4 +44,11 @@ public class ControladorGasolina : MonoBehaviour
         imageGasolina.fillAmount = (combustivelAtual / gasolinaMaxima);
         imageGasolina.color = gradientGasolina.Evaluate(imageGasolina.fillAmount);
     }
+    
+    public void MaisGasolina()
+    {
+        combustivelAtual = gasolinaMaxima;
+        UpdateUI();
+
+    }
 }
