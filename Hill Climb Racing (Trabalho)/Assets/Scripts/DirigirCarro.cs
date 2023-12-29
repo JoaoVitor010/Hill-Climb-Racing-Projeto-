@@ -14,6 +14,13 @@ public class DirigirCarro : MonoBehaviour
 
     private float moveInput;
 
+    public static DirigirCarro instance1;
+
+    public void Awake()
+    {
+        instance1 = this;
+    }
+
     private void Update()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
@@ -24,5 +31,10 @@ public class DirigirCarro : MonoBehaviour
         pneuFrente.AddTorque(moveInput * speed * Time.fixedDeltaTime);
         pneuTras.AddTorque(moveInput * speed * Time.fixedDeltaTime);
         carro.AddTorque(moveInput * rotationSpeed * Time.fixedDeltaTime);
+    }
+
+    public void IncreaseSpeed(float Value)
+    {
+        speed += Value;
     }
 }
